@@ -10,7 +10,7 @@ terraform {
 provider "vcd" {
   url      = "https://vdc.rayacloud.com/api"
   user     = "omar"
-  password = "*******"
+  password = "R@Y@10002000"
 
   auth_type = "integrated"
 
