@@ -38,7 +38,7 @@ customization {
   enabled                    = true
   allow_local_admin_password = true
   auto_generate_password     = false
-  admin_password             = "4FrD&3d+u"
+  admin_password             = "*******"
   initscript = <<-EOT
     #!/bin/bash
     if [ "$1" = "postcustomization" ]; then
@@ -200,7 +200,7 @@ customization {
   enabled                    = true
   allow_local_admin_password = true
   auto_generate_password     = false
-  admin_password             = "4FrD&3d+u"
+  admin_password             = "*******"
   initscript = <<-EOT
     #!/bin/bash
     if [ "$1" = "postcustomization" ]; then
@@ -300,7 +300,7 @@ customization {
   enabled                    = true
   allow_local_admin_password = true
   auto_generate_password     = false
-  admin_password             = "4FrD&3d+u"
+  admin_password             = "*******"
   initscript = <<-EOT
     #!/bin/bash
     if [ "$1" = "postcustomization" ]; then
@@ -415,7 +415,7 @@ customization {
   enabled                    = true
   allow_local_admin_password = true
   auto_generate_password     = false
-  admin_password             = "4FrD&3d+u"
+  admin_password             = "*******"
   initscript = <<-EOT
     #!/bin/bash
     if [ "$1" = "postcustomization" ]; then
@@ -595,7 +595,7 @@ customization {
   enabled                    = true
   allow_local_admin_password = true
   auto_generate_password     = false
-  admin_password             = "4FrD&3d+u"
+  admin_password             = "*******"
   initscript = <<-EOT
     #!/bin/bash
     if [ "$1" = "postcustomization" ]; then
